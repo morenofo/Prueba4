@@ -10,6 +10,14 @@ import UIKit
 
 class ViewController: UIViewController {
     
+    // Copiar celda con imagenes
+    // Subir todo a Github
+    
+    
+    
+    
+    
+    
     var contenedor = ""
     @IBOutlet weak var tableView: UITableView!
     
